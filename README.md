@@ -8,5 +8,5 @@ Run `ng serve` or `npm start` for a dev server. Navigate to `http://localhost:42
 
 ## API Weather
 
-Documentation : https://openweathermap.org/current
+Documentation : `https://openweathermap.org/current`<br/>
 API key : `acc2caec8e1294a40424dde232848027`
