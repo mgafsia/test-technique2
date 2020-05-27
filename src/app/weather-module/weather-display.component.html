@@ -1,0 +1,3 @@
+<p>Temperature : {{weather?.main?.temp  | convertFtoC | number:'0.0-2'}} °C</p>
+<p>Sunrise: {{weather?.sys?.sunrise * 1000 | date: DATE_FORMAT}}</p>
+<p>Sunrise: {{weather?.sys?.sunset * 1000 | date: DATE_FORMAT}}</p>
